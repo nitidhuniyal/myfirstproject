@@ -4,4 +4,9 @@ first test change :sesttsts
 
 second cgdh asihas;oidh a	spoaslihcy	asoihange t
 
+<<<<<<< HEAD
 change 4
+=======
+
+change 3
+>>>>>>> master
